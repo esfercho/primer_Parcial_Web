@@ -473,13 +473,10 @@ main .media .posts .post:nth-child(1) i{
     color: #0a66c2;
 }
 main .media .posts .post:nth-child(2) i{
-    color: #19c20a;
+    color: #f6b375;
 }
 main .media .posts .post:nth-child(3) i{
-    color: #3187dd;
-}
-main .media .posts .post:nth-child(4) i{
-    color: #c20ab9;
+    color: #ff8000;
 }
 
 main .media .posts .post:hover{
