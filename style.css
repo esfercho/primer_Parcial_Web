@@ -82,7 +82,7 @@ nav .wrapper .right .work{
     cursor: pointer;
 }
 
-nav .wrapper .right .home,
+nav .wrapper .right .home:hover,
 nav .wrapper .right .network:hover,
 nav .wrapper .right .jobs:hover,
 nav .wrapper .right .message:hover,
@@ -92,6 +92,7 @@ nav .wrapper .right .work .down:hover{
     color: black;
 }
 
+nav .wrapper .right .home,
 nav .wrapper .right .network,
 nav .wrapper .right .jobs,
 nav .wrapper .right .message,
